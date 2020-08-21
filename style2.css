@@ -1,0 +1,17 @@
+#blue{
+    color: blue;
+}
+#orange{
+    color: orange;
+}
+#center{
+    text-align: center;
+}
+#centerBlueBold{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+h1{
+    color:red;
+}
